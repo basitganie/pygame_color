@@ -2,7 +2,8 @@
 
 `pygame_colors` is a simple Python module for Pygame that provides pre-defined color names and utility functions to make Pygame scripts easier to read and write.
 
-# Author: Basit Ahmad Ganie 
+# Credits
+Author: Basit Ahmad Ganie 
 email : basitahmed1412@gmail.com
 
 ## Installation
@@ -14,7 +15,7 @@ You can install the package via pip:
  ```
  Example usage:
      
-     ```python
+```python
 import pygame
 from pygame_colors import get_color, lighten, darken
 
@@ -42,4 +43,3 @@ while running:
 pygame.quit()
 
 ```
-# pygame_color
